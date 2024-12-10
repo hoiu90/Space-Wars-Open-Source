@@ -7,3 +7,5 @@ STEP 2 :
 STEP 3:
          i try to makeing there programing to .EXE to share other player.  face quetions 1.must imported picutre and video music through OS and BASE to solved when pyinstaller after 
          the programming cant be call
+STEP 4: 
+         i already fix bug about why the BGM doesnot work. and why upper right corner doesnot show . and compresssed into ZIP.
